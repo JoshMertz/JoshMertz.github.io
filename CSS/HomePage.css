@@ -1,0 +1,11 @@
+.main-content{
+    Margin-top: 15%;
+    line-height: 200px;
+    height: 200px;
+    text-align: center;
+}
+.under-construction{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
